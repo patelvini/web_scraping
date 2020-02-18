@@ -1,0 +1,13 @@
+http://pythonscraping.com/pages/page1.html
+
+http://pythonscraping.com/pages/warandpeace.html
+
+https://www.pythonscraping.com/pages/page3.html
+
+https://en.wikipedia.org/wiki/Kevin_Bacon
+
+https://en.wikipedia.org/wiki/Python_(programming_language)
+
+https://www.amazon.in/s?k=macbook&ref=nb_sb_noss
+
+password : luspglgbqzncupym
