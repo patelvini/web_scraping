@@ -25,7 +25,7 @@ def send_mail():
 
     server.sendmail(
         'patelvini136@gmail.com',
-        'patelvini136@gmail.com',
+        'godaseakshay24@gmail.com',
         msg
     )
 
@@ -52,4 +52,7 @@ def check_price():
     if converted_price > 180000.0:
         send_mail()
 
-check_price()
+while True:
+    check_price()
+    time.sleep(60 * 60)
+
