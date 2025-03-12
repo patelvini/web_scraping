@@ -1,0 +1,15 @@
+http://pythonscraping.com/pages/page1.html
+
+http://pythonscraping.com/pages/warandpeace.html
+
+https://www.pythonscraping.com/pages/page3.html
+
+https://en.wikipedia.org/wiki/Kevin_Bacon
+
+https://en.wikipedia.org/wiki/Python_(programming_language)
+
+https://www.amazon.in/s?k=macbook&ref=nb_sb_noss
+
+https://www.amazon.in/Apple-MacBook-16-inch-Storage-Intel-Core-i7/dp/B081JXDZFM/ref=sr_1_2_sspa?keywords=macbook&qid=1582018767&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVkVOM09GUTBJR1ZKJmVuY3J5cHRlZElkPUEwOTc0NjE2MTlXWTMzVk8zVE1VMCZlbmNyeXB0ZWRBZElkPUEwNDgzOTU0MjNMRURZQU5TNVdPRiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+
+password : luspglgbqzncupym
